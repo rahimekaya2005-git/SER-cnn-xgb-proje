@@ -1,0 +1,23 @@
+03 - ÖZELLİK DOSYASI KONTROL RAPORU
+==================================================
+
+Orijinal satır sayısı  : 1735
+Orijinal sütun sayısı  : 250
+Temiz satır sayısı     : 1735
+Temiz sütun sayısı     : 250
+
+Eksik değer sayısı     : 0
+Sonsuz değer sayısı    : 0
+Tekrarlı satır sayısı  : 0
+Tekrarlı dosya sayısı  : 0
+
+Sınıf dağılımı:
+emotion
+Angry    487
+Sad      483
+Calm     408
+Happy    357
+Name: count, dtype: int64
+
+Sayısal olmayan özellik sütunları:
+Yok
